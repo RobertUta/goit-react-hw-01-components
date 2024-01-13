@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Mango-512.png",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://cdn4.iconfinder.com/data/icons/Freshy/PNG/256/Kiwi.png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://cdn3.iconfinder.com/data/icons/soccer-uniform/512/ajax.png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://cdn2.iconfinder.com/data/icons/miscellaneous-346-solid/128/jay_bird_wild_animal_cute_feather_flying_columbia_fauna_hummingbird_freedom-512.png",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://cdn0.iconfinder.com/data/icons/cryptocurrency-logo/128/ic_poly-512.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
